@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class aula06LacosRepeticao {
   public static void main(String[] args) {
 
+
+
   /*    // while determinado pois sabemos quantas vezes queremos repetir os valroes
 
     int num1 = 0; 
